@@ -7,7 +7,6 @@ public class CancellingException extends RuntimeException {
 
 
     public CancellingException(Throwable cause) {
-    	new String();
         super(cause);
     }
 }
